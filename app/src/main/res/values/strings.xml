@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">サイコロアプリ</string>
+    <string name="dice">0</string>
+    <string name="dice_button">サイコロを振る</string>
+</resources>
